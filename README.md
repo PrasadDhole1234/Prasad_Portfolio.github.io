@@ -36,8 +36,8 @@ This portfolio showcases my projects, skills, and experience in software develop
 ## 📬 Contact Me  
 - **Portfolio:** [Prasad_Portfolio.github.io](https://prasaddhole1234.github.io/Prasad_Portfolio.github.io/)  
 - **GitHub:** [@prasaddhole1234](https://github.com/prasaddhole1234)  
-- **LinkedIn:** [Your LinkedIn Link]  
-- **Email:** [Your Email]  
+- **LinkedIn:** (https://www.linkedin.com/in/prasaddhole/)
+- **Email:** (prasadbdhole@gmail.com) 
 
 ---
 
